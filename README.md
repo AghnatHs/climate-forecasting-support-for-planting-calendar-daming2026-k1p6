@@ -15,6 +15,14 @@
 
 ## Notebook Content as of now
 
+Data Mining project:
+- minggu 10 - EDA - Missing Value
+- minggu 11 - Diskretisasi Data , Transformasi, Normalisasi
+- minggu 12 - Seleksi Fitur, Modelling
+- minggu 13 - Evaluasi 
+- minggu 14 - Laporan n PPT
+
+Current notebook content:
 - library installation and imports
 - dataset loading
 - WMO weather code normalization
