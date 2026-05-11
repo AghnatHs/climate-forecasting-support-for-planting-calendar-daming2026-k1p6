@@ -46,7 +46,11 @@
   #text(size: 13pt)[Studi Kasus: Kota Bogor, 1940–2025]
   #v(3cm)
   #text(size: 12pt)[
-    Kelompok 6 - P1 \
+    Kelompok 6 - P1 \ \
+    Qois Firosi								G6401231031 \
+    Aghnat Hasya Sayyidina								G6401231074 \
+    Jason Bagaskara Mulyono								G6401231088 \
+    Nugraha Darmaputra Tangkeallo								G6401231105 \ \
     Departemen Ilmu Komputer \
   ]
   #v(1cm)
